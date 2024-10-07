@@ -48,4 +48,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/AlexRapala/guestbook:prod
+          tags: ghcr.io/alexrapala/guestbook:prod
