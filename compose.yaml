@@ -10,7 +10,9 @@
 
 services:
   server:
-    image: ghcr.io/alexrapala/guestbook:prod
+    build:
+      context: .
+      dockerfile: Dockerfile
     container_name: guestbook
     ports:
       - 8080:8080
