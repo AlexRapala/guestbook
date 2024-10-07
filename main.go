@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/dreamsofcode-io/guestbook/internal/app"
+	"github.com/alexrapala/guestbook/internal/app"
 	"github.com/joho/godotenv"
 )
 

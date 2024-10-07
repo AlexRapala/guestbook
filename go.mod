@@ -1,4 +1,4 @@
-module github.com/dreamsofcode-io/guestbook
+module github.com/alexrapala/guestbook
 
 go 1.22.3
 

@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dreamsofcode-io/guestbook/internal/middleware"
+	"github.com/alexrapala/guestbook/internal/middleware"
 	"github.com/stretchr/testify/assert"
 )
 

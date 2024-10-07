@@ -11,8 +11,8 @@ import (
 	goaway "github.com/TwiN/go-away"
 	"github.com/jackc/pgx/v5/pgxpool"
 
-	"github.com/dreamsofcode-io/guestbook/internal/guest"
-	"github.com/dreamsofcode-io/guestbook/internal/repository"
+	"github.com/alexrapala/guestbook/internal/guest"
+	"github.com/alexrapala/guestbook/internal/repository"
 )
 
 type Guestbook struct {

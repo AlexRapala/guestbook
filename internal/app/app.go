@@ -10,8 +10,8 @@ import (
 
 	"github.com/jackc/pgx/v5/pgxpool"
 
-	"github.com/dreamsofcode-io/guestbook/internal/database"
-	"github.com/dreamsofcode-io/guestbook/internal/middleware"
+	"github.com/alexrapala/guestbook/internal/database"
+	"github.com/alexrapala/guestbook/internal/middleware"
 )
 
 type App struct {
